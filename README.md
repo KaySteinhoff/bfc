@@ -24,6 +24,7 @@ Bfc requires an input file and can take in multiple different flags such as '-o'
 
 Here's a complete list of bfc flags and their uses:
 
+|Flag|Use|
 |---|---|
 |-h|Prints a help page very similar to this table|
 |-v|Prints the currently installed version and the license it's under|
